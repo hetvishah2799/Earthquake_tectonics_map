@@ -1,4 +1,6 @@
-🌍 Where the Earth Shapes - Earthquake & Tectonic Plate Overlay Map
+#H1-🌍 Where the Earth Shapes - Earthquake & Tectonic Plate Overlay Map
+
+
 A geospatial visualization of recent global earthquake activity and tectonic plate boundaries using Python and GeoPandas — plotted over a real-world basemap.
 
 🚀 Features
